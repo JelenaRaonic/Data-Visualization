@@ -15,3 +15,5 @@ In this project the analysis was done and it contains following:
    
    b) Scatter Plot - mouse weight vs average observed tumor volume
 8. Correlation and Regression - between mouse weigth and average observed tumor volume for the entire Capomulin treatment regimen.
+
+I greatly appreciate help from Learning Assistant in part where some minor errors occured. 
